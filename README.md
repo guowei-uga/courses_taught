@@ -2,7 +2,7 @@
 
 This repository contains materials for the following courses.
 
-## Mathematics
+## MTH Courses
 
 - MTH 133: Calculus II
 - MTH 235: Differential equations
@@ -25,7 +25,7 @@ This repository contains materials for the following courses.
 - MTH 995: Computational biology I (Topics in Applied Mathematics) ([syllabus](syllabus/ComputationalBio.pdf))
 - MTH 995: Computational biology II (Topics in Applied Mathematics) ([syllabus](syllabus/ComputationalBio.pdf))
 
-## Computational Science
+## CZ Courses
 
 - CZ 3242: Computational techniques for quantum systems
 - CZ 3247: Computational fluid dynamics
