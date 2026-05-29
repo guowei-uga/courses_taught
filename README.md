@@ -12,8 +12,8 @@ This repository contains materials for the following courses.
 - MTH 496: Machine learning ([syllabus](syllabus/MTH%20496%20Syllabus.pdf))
 - MTH 950: Numerical methods for partial differential equations ([syllabus](syllabus/MTH950_syllabus.pdf))
 - MTH 994: Wavelets and applications (Topics in Applied Mathematics)
-- MTH 994: Biological Modeling and Computation I
-- MTH 994: Biological Modeling and Computation II
+- MTH 994: Biological Modeling and Computation I ([syllabus](syllabus/MTH994_Biological_Modeling_and_Computation_I.md))
+- MTH 994: Biological Modeling and Computation II ([syllabus](syllabus/MTH994_Biological_Modeling_and_Computation_II.md))
 - MTH 994: Mathematical modeling of nano-bio systems I
 - MTH 994: Mathematical modeling of nano-bio systems II
 - MTH 994-1: Mathematical modeling of human sensory systems I: Fundamentals of human sensory systems ([syllabus](syllabus/MTH995-2011.pdf))

@@ -1,0 +1,5 @@
+# MTH 994: Biological Modeling and Computation II
+
+## Syllabus
+
+Principles of thermodynamics; statistical ensembles; Maxwell-Boltzmann statistics; Fermi-Dirac and Bose-Einstein statistics; random work; stochastic process; Markov process; master equation; Fokker-Planck equation; Brownian motion and Langevin equation; autocorrelation; density matrix; Liouvelle equation; Zwanzig's equation; linear response theory; Boltzmann equation; theory of liquids; Brownian ratchets; molecular motor; biomechanics; protein membrane interaction; evolutionary genomics; mathematical approaches to the discovery of gene motifs; gene regulation; explanatory and predictive models of cellular growth and interaction; metabolic circuitry and dynamics; signal transduction and enzyme dynamics; phylogenetic analysis; biosensors; neuroscience; electrostatics in metabolic process; fluid-macromolecule interaction and impact to metabolism; molecular dynamics and force fields; Monte Carlo; implicit solvent modeling; Poisson-Boltzmann equation.
